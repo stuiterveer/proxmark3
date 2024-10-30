@@ -664,6 +664,7 @@ SRCS =  mifare/aiddesfire.c \
 		cmdlfindala.c \
 		cmdlfio.c \
 		cmdlfjablotron.c \
+		cmdlfjma.c \
 		cmdlfkeri.c \
 		cmdlfmotorola.c \
 		cmdlfnedap.c \

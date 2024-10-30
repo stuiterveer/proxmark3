@@ -381,6 +381,7 @@ set (TARGET_SOURCES
         ${PM3_ROOT}/client/src/cmdlfindala.c
         ${PM3_ROOT}/client/src/cmdlfio.c
         ${PM3_ROOT}/client/src/cmdlfjablotron.c
+        ${PM3_ROOT}/client/src/cmdlfjma.c
         ${PM3_ROOT}/client/src/cmdlfkeri.c
         ${PM3_ROOT}/client/src/cmdlfmotorola.c
         ${PM3_ROOT}/client/src/cmdlfnedap.c

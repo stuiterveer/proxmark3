@@ -50,6 +50,7 @@
 #include "cmdlfguard.h"     // for gproxii menu
 #include "cmdlfindala.h"    // for indala menu
 #include "cmdlfjablotron.h" // for JABLOTRON menu
+#include "cmdlfjma.h"       // for JMA TPX menu
 #include "cmdlfkeri.h"      // for keri menu
 #include "cmdlfmotorola.h"  // for Motorola menu
 #include "cmdlfnedap.h"     // for NEDAP menu
@@ -2103,6 +2104,7 @@ static command_t CommandTable[] = {
     {"indala",      CmdLFINDALA,        AlwaysAvailable, "{ Indala RFIDs...            }"},
     {"io",          CmdLFIO,            AlwaysAvailable, "{ ioProx RFIDs...            }"},
     {"jablotron",   CmdLFJablotron,     AlwaysAvailable, "{ Jablotron RFIDs...         }"},
+    {"jma",         CmdLFJMA,           AlwaysAvailable, "{ JMA TPX RFIDs...           }"},
     {"keri",        CmdLFKeri,          AlwaysAvailable, "{ KERI RFIDs...              }"},
     {"motorola",    CmdLFMotorola,      AlwaysAvailable, "{ Motorola Flexpass RFIDs... }"},
     {"nedap",       CmdLFNedap,         AlwaysAvailable, "{ Nedap RFIDs...             }"},
